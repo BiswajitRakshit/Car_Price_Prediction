@@ -21,6 +21,6 @@ This model was hence chosen to account for the large number of features in the d
 To deploy the model on Heroku, put your project on GitHub and create a account on Heroku. Please use python as programming language while setting up the account.
 
 # Project Link:
-https://mlbanknoteauthentication.herokuapp.com/
+https://car7price7pred.herokuapp.com 
 
 
